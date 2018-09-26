@@ -1,0 +1,2 @@
+# awsome-angularjs
+learning angularjs 
